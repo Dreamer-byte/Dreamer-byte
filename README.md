@@ -1,4 +1,4 @@
-# Hola, soy Noel Rocha
+# Hola, soy Noel 👍
 
 Backend Developer e Ingeniero en Telematica enfocado en construir APIs REST, sistemas web y aplicaciones de escritorio con bases solidas de arquitectura, mantenibilidad y calidad.
 
