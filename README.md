@@ -3,12 +3,10 @@
 Backend Developer e Ingeniero en Telematica enfocado en construir APIs REST, sistemas web y aplicaciones de escritorio con bases solidas de arquitectura, mantenibilidad y calidad.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ingnoelrocha.netlify.app-6c63ff?style=for-the-badge&logo=netlify&logoColor=white)](https://ingnoelrocha.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noel%20Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noel-rocha-ba4bb4277)
-[![Email](https://img.shields.io/badge/Email-rochanoel191%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rochanoel191@gmail.com)
 
 ## Sobre mi
 
-Soy Ingeniero en Telematica graduado de la UNAN-Leon, con experiencia en desarrollo Backend, sistemas administrativos, APIs REST y aplicaciones de escritorio en C# / WPF.
+Soy Ingeniero en Telematica, con experiencia en desarrollo Backend, sistemas administrativos, APIs REST y aplicaciones de escritorio en C# / WPF.
 
 Me interesa construir software que sea claro, mantenible y util para resolver problemas reales. Trabajo con enfoque en arquitectura limpia, patrones de diseno, documentacion de APIs y buenas practicas de desarrollo.
 
@@ -79,7 +77,6 @@ Aplicacion web para registro, clasificacion, asignacion y seguimiento de solicit
 ## Contacto
 
 - Portfolio: [ingnoelrocha.netlify.app](https://ingnoelrocha.netlify.app/)
-- LinkedIn: [Noel Rocha](https://www.linkedin.com/in/noel-rocha-ba4bb4277)
 
 ---
 
